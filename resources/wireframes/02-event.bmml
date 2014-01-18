@@ -1,0 +1,163 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1090" measuredH="1776" mockupW="1030" mockupH="1756">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="60" y="20" w="1024" h="1756" measuredW="450" measuredH="400" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Drupal%20Danmark%0Ahttp%3A//drupaldanmark.dk</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="206" y="203" w="792" h="-1" measuredW="339" measuredH="43" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>DrupalHagen%202014</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="__group__" x="951" y="110" w="118" h="24" measuredW="118" measuredH="24" zOrder="1" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="39" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="0" locked="false" isInGroup="14">
+          <controlProperties>
+            <icon>FacebookIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="94" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="1" locked="false" isInGroup="14">
+          <controlProperties>
+            <icon>TwitterIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="14">
+          <controlProperties>
+            <icon>FlickrIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::SubTitle" x="113" y="109" w="-1" h="-1" measuredW="172" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>drupal%20danmark</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::HRule" x="60" y="138" w="1024" h="-1" measuredW="100" measuredH="10" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::LinkBar" x="483" y="113" w="-1" h="-1" measuredW="343" measuredH="19" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Foreningen%2C%20Kom%20igang%2C%20Drupal%20kontakt%28tm%29%2C%20Updates</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Image" x="60" y="146" w="1024" h="266" measuredW="77" measuredH="79" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Button" x="864" y="351" w="130" h="41" measuredW="78" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>K%F8b%20Billet</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Paragraph" x="332" y="345" w="527" h="50" measuredW="200" measuredH="80" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident%2C%20sunt%20in%20culpa%20qui%20officia%20deserunt%20mollit%20anim%20id%20est%20laborum.%09</text>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="__group__" x="66" y="1594" w="1024" h="150" measuredW="1024" measuredH="150" zOrder="9" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="0" w="1024" h="-1" measuredW="100" measuredH="10" zOrder="0" locked="false" isInGroup="59"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="410" y="15" w="200" h="135" measuredW="200" measuredH="80" zOrder="1" locked="false" isInGroup="59">
+          <controlProperties>
+            <text>*Foreningen%20Drupal%20Danmark*</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::LinkBar" x="340" y="41" w="-1" h="-1" measuredW="343" measuredH="19" zOrder="2" locked="false" isInGroup="59">
+          <controlProperties>
+            <text>Foreningen%2C%20Kom%20igang%2C%20Drupal%20kontakt%28tm%29%2C%20Updates</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="126" w="1024" h="-1" measuredW="100" measuredH="10" zOrder="3" locked="false" isInGroup="59"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Title" x="300" y="440" w="-1" h="-1" measuredW="513" measuredH="43" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Drupalhagen%201-3%20Marts%202015</text>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Map" x="252" y="514" w="235" h="173" measuredW="252" measuredH="222" zOrder="11" locked="false" isInGroup="-1"/>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Paragraph" x="502" y="514" w="-1" h="-1" measuredW="200" measuredH="80" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Bellacenteret%20indgang%202q%0AVesterbrogade%2045%0A1567Kbh%20V</text>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::Title" x="355" y="739" w="-1" h="-1" measuredW="489" measuredH="43" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Program%20drupalhagen%202014</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::HRule" x="196" y="722" w="783" h="-1" measuredW="100" measuredH="10" zOrder="14" locked="false" isInGroup="-1"/>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::SubTitle" x="164" y="811" w="-1" h="-1" measuredW="153" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Fredag%201.%20Dec.</text>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::SubTitle" x="515" y="811" w="-1" h="-1" measuredW="160" measuredH="27" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>L%F8rdag%202.%20Dec.</text>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::SubTitle" x="846" y="811" w="-1" h="-1" measuredW="167" measuredH="27" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>S%F8ndag%203.%20Dec.</text>
+      </controlProperties>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::Paragraph" x="145" y="857" w="200" h="327" measuredW="200" measuredH="80" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*install%20party*%0A15%3A00%20-19%3A00%20%0ABellacenteret%0A%20%0A%20%0A*Party%20party*%0AKongenhave%20fra%20kl%2019%3A00</text>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::Paragraph" x="442" y="842" w="260" h="146" measuredW="200" measuredH="80" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*Session%201%20title*%0A9%3A00%20-10%3A00%20%0A_af%20rasmus_%0A%5Bslides%5D%0Alorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20%5Bmore%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::Paragraph" x="442" y="996" w="260" h="146" measuredW="200" measuredH="80" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*Session%201%20title*%0A9%3A00%20-10%3A00%20%0Alorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%0A_af%20rasmus_</text>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::Paragraph" x="442" y="1149" w="260" h="146" measuredW="200" measuredH="80" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*Session%201%20title*%0A9%3A00%20-10%3A00%20%0Alorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%0A_af%20rasmus_</text>
+      </controlProperties>
+    </control>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::Paragraph" x="442" y="1300" w="260" h="146" measuredW="200" measuredH="80" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*Session%201%20title*%0A9%3A00%20-10%3A00%20%0A*Session%201%20title*%0A9%3A00%20-10%3A00%20%0A*Session%201%20title*%0A9%3A00%20-10%3A00%20%0A*Session%201%20title*%0A9%3A00%20-10%3A00%20%0A*Session%201%20title*%0A9%3A00%20-10%3A00%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::SubTitle" x="511" y="632" w="-1" h="-1" measuredW="150" measuredH="27" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%23drupalhagen</text>
+      </controlProperties>
+    </control>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::Link" x="515" y="668" w="-1" h="-1" measuredW="80" measuredH="19" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Se%20p%E5%20Lanyrd</text>
+      </controlProperties>
+    </control>
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::Paragraph" x="776" y="838" w="260" h="146" measuredW="200" measuredH="80" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*Session%201%20title*%0A9%3A00%20-10%3A00%20%0Alorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%0A_af%20rasmus_</text>
+      </controlProperties>
+    </control>
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::Paragraph" x="776" y="992" w="260" h="146" measuredW="200" measuredH="80" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*Session%201%20title*%0A9%3A00%20-10%3A00%20%0Alorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%0A_af%20rasmus_</text>
+      </controlProperties>
+    </control>
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::Paragraph" x="776" y="1145" w="260" h="146" measuredW="200" measuredH="80" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*Session%201%20title*%0A9%3A00%20-10%3A00%20%0Alorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%0A_af%20rasmus_</text>
+      </controlProperties>
+    </control>
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::Paragraph" x="776" y="1296" w="260" h="146" measuredW="200" measuredH="80" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*Session%201%20title*%0A9%3A00%20-10%3A00%20%0A*Session%201%20title*%0A9%3A00%20-10%3A00%20%0A*Session%201%20title*%0A9%3A00%20-10%3A00%20%0A*Session%201%20title*%0A9%3A00%20-10%3A00%20%0A*Session%201%20title*%0A9%3A00%20-10%3A00%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::SubTitle" x="506" y="596" w="-1" h="-1" measuredW="156" measuredH="27" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>@drupalhagen</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
