@@ -5,7 +5,7 @@ if [ -d htdocs ]; then
   mv htdocs htdocs-old
 fi
 
-drush make --working-copy platform.make htdocs --no-gitinfofile
+drush make --working-copy platform.make htdocs --no-gitinfofile --translations=da
 
 if [ -d htdocs-old ]; then
   # There was an old site so lets pull in related files from it
