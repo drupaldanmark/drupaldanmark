@@ -1,6 +1,6 @@
 #!/bin/bash
 # This is a very simple script that can be used to build the system
-drush situs-build --root=htdocs --make-file=./platform.make --git-check
+drush situs-build --root=htdocs --make-file=./platform.make --git-check --git-check-ignore-regex=/global/,/contrib/,/libraries/
 
 #if [ -d htdocs ]; then
 #  mv htdocs htdocs-old
