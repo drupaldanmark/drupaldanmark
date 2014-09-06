@@ -5,7 +5,7 @@ api = 2
 core = 7.x
 
 ; Drupal project
-projects[drupal] = 7.26
+projects[drupal] = 7.31
 
 ; We are going to run with panopoly beneath it all so lets fetch it!
 ;projects[panopoly][type] = profile
